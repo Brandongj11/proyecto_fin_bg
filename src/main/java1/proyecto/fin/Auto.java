@@ -114,8 +114,8 @@ public class Auto {
 
 	@Override
 	public String toString() {
-		return "Placa:" + placa + "-Modelo:" + modelo + "-Marca:" + marca + "-Año:" + anioFabricacion
-				+ "-Estado:" + estado + "-Fecha Entrega:" +fechaEntrega+ "";
+		return "Placa:" + placa + "-Modelo:" + modelo + "-Marca:" + marca + "-Año:" + anioFabricacion + "-Estado:"
+				+ estado + "-Fecha Entrega:" + fechaEntrega + "";
 	}
 
 }
